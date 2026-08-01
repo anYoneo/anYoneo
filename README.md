@@ -11,6 +11,7 @@ Here are some of the tools, languages, and frameworks I work with:
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -23,6 +24,7 @@ Here are some of the tools, languages, and frameworks I work with:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 💳 **[Financely](https://github.com/anYoneo/finance-dashboard)** | Premium glassmorphism finance dashboard with 3D tilt | `React` `Vite` `Chart.js` |
 | 🎓 **[PSB Online](https://github.com/anYoneo/Project-Scrud-HTML-PHP)** | Student registration system built with Laravel | `PHP` `Laravel` `MySQL` |
 | 🤖 **[NLP Chatbot](https://github.com/anYoneo/chatbot)** | AI-powered chatbot using Natural Language Processing | `Python` `Flask` `NLP` |
 | 📊 **[Data Analysis](https://github.com/anYoneo/Belajar-Analisis-data-dengan-python)** | Data analysis projects and learning resources | `Python` `Pandas` |
