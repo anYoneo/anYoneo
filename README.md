@@ -1,4 +1,4 @@
-# Hi there, I'm anYoneo! 👋
+# Hi there, I'm Riszky! 👋
 
 ### 👨‍💻 System Analyst / Industrial Software Engineer
 
