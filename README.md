@@ -1,6 +1,6 @@
 # Hi there, I'm Riszky! 👋
 
-### 👨‍💻 System Analyst / Industrial Software Engineer
+### 👨‍💻 Business System Architect
 
 I am a passionate Industrial Software Engineer and System Analyst who builds highly reliable, scalable, and beautifully architected software solutions. My engineering philosophy revolves around rigorous testing, automated CI/CD pipelines, containerized deployments, and clean component-based architectures.
 
