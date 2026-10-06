@@ -32,6 +32,7 @@ I am a passionate Industrial Software Engineer and System Analyst who builds hig
 | 🤖 **[NLP Chatbot](https://github.com/anYoneo/chatbot)** | Refactored AI chatbot with robust error handling and Docker healthchecks | `Python` `Flask` `NLP` | 🟢 Production Ready |
 | 🎓 **[PSB Online](https://github.com/anYoneo/Project-Scrud-HTML-PHP)** | Student registration system built with Laravel | `PHP` `Laravel` `MySQL` | 🟡 Active |
 | 📊 **[Data Analysis](https://github.com/anYoneo/Belajar-Analisis-data-dengan-python)** | Data analysis projects and learning resources | `Python` `Pandas` | 🟡 Active |
+| 📔 **[Personal Diary OS](https://github.com/anYoneo/personal-diary-os)** | Private, markdown-native diary: autosave editor, timeline, memory graph, invite-only multi-user, Discord capture | `Next.js` `Prisma` `SQLite` | 🟢 Live |
 
 ## 📈 GitHub Stats
 
